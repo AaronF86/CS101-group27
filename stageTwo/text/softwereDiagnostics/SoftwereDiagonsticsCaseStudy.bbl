@@ -1,0 +1,142 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{gartner_dark_data}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18bfab6309a4addeb7e1dae07d2a4b89}{%
+           family={Gartner},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{bibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorbibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authornamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-10-14}
+      \field{title}{Dark Data Definition}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.gartner.com/en/information-technology/glossary/dark-data
+      \endverb
+      \verb{url}
+      \verb https://www.gartner.com/en/information-technology/glossary/dark-data
+      \endverb
+    \endentry
+    \entry{ons_technology}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c09c61c48c28e8c07dd16d821ede8eb}{%
+           family={{Office for National Statistics}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{fullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{bibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorbibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authornamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorfullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-10-14}
+      \field{title}{Percentage of Homes and Individuals with Technological Equipment}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.beta.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/percentageofhomesandindividualswithtechnologicalequipment
+      \endverb
+      \verb{url}
+      \verb https://www.beta.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/percentageofhomesandindividualswithtechnologicalequipment
+      \endverb
+    \endentry
+    \entry{ons_population}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c09c61c48c28e8c07dd16d821ede8eb}{%
+           family={{Office for National Statistics}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{fullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{bibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorbibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authornamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorfullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-10-14}
+      \field{title}{Annual Mid-Year Population Estimates: Mid-2023}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2023
+      \endverb
+      \verb{url}
+      \verb https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2023
+      \endverb
+    \endentry
+    \entry{ons_household_size}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c09c61c48c28e8c07dd16d821ede8eb}{%
+           family={{Office for National Statistics}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{fullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{bibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorbibnamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authornamehash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \strng{authorfullhash}{7c09c61c48c28e8c07dd16d821ede8eb}
+      \field{extraname}{3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-10-14}
+      \field{title}{Families and Households: 2023}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2023
+      \endverb
+      \verb{url}
+      \verb https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2023
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
